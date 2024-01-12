@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "get",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Get",
+      "state" : {
+        "revision" : "12830cc64f31789ae6f4352d2d51d03a25fc3741",
+        "version" : "2.1.6"
+      }
+    },
+    {
+      "identity" : "gptswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftedMind/GPTSwift",
+      "state" : {
+        "revision" : "c90d3fc4418119aa6cc796ded049fa73f4b28185",
+        "version" : "3.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
